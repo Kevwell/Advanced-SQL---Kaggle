@@ -1,2 +1,2 @@
-#Intermediate Machine Learning---Kaggle
+#Advanced-SQL---Kaggle
 Jupiter Notebooks from Kaggle
